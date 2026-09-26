@@ -38,3 +38,16 @@ Pada latihan ini saya menggunakan `final` untuk membuat nilai yang hanya dapat d
 ```text
 Order ID    : ABN-1234567
 Waktu Order : [waktu saat program dijalankan]
+```
+
+## Tugas 4 - Const via Explicit Typing
+Pada latihan ini saya menggunakan `const` untuk nilai yang sudah diketahui saat compile-time.
+
+- `const double` untuk persentase pajak
+- `const String` untuk mata uang
+
+### Output
+
+```text
+Pajak: 11.0%
+Mata uang: IDR

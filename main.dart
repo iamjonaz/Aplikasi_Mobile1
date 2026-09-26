@@ -33,10 +33,20 @@
 //     print('Catatan          : $noteToPrint');
 // }
 
-void main () {
-    final String orderId = 'ABN-1234567';
-    final DateTime orderTime = DateTime.now();
+// Tugas 3
+// void main () {
+//     final String orderId = 'ABN-1234567';
+//     final DateTime orderTime = DateTime.now();
 
-    print('Order ID     :$orderId');
-    print('Waktu Order  :$orderTime');
-}
+//     print('Order ID     :$orderId');
+//     print('Waktu Order  :$orderTime');
+// }
+
+// Tugas 4
+// void main() {
+//     const double taxRate = 0.24;
+//     const String currency = 'USD';
+
+//     print('Pajak        :${taxRate * 100}%');
+//     print('Mata Uang    :$currency');
+// }
