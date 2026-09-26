@@ -59,7 +59,7 @@ Pada latihan ini saya menggunakan `late` untuk variabel yang nilainya diberikan 
 ```dart
 late String orderStatus;
 
-orderStatus = 'Pesanan sedang diproses';
+orderStatus = 'Silahkan tunggu, pesanan sedang di proses';
 
 print('Status: $orderStatus');
 ```
