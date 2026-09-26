@@ -49,5 +49,5 @@ Pada latihan ini saya menggunakan `const` untuk nilai yang sudah diketahui saat 
 ### Output
 
 ```text
-Pajak: 11.0%
-Mata uang: IDR
+Pajak: 24.0%
+Mata uang: USD
