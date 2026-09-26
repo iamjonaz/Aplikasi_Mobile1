@@ -2,7 +2,7 @@
 
 Pada latihan ini saya menggunakan beberapa tipe data dasar Dart:
 
-- String
+- Stringgit
 - int
 - double
 - bool
