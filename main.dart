@@ -32,3 +32,11 @@
 //     print('Nama Pelanggan   : $customerName');
 //     print('Catatan          : $noteToPrint');
 // }
+
+void main () {
+    final String orderId = 'ABN-1234567';
+    final DateTime orderTime = DateTime.now();
+
+    print('Order ID     :$orderId');
+    print('Waktu Order  :$orderTime');
+}

@@ -24,3 +24,17 @@ String? customerNote;
 customerNote = 'Pedas Gacor';
 
 String noteToPrint = customerNote ?? 'Tidak ada catatan';
+```
+
+
+## Tugas 3 - Final via Explicit Typing
+Pada latihan ini saya menggunakan `final` untuk membuat nilai yang hanya dapat diisi satu kali.
+
+- `final String` untuk ID pesanan
+- `final DateTime` untuk waktu pesanan
+
+### Output
+
+```text
+Order ID    : ABN-1234567
+Waktu Order : [waktu saat program dijalankan]
