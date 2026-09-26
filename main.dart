@@ -1,3 +1,4 @@
+// ## Latihan 1 - Explicit Typing
 void main() {
     String foodName = 'Ayam Bakar Nakz';
     int qty = 300;
