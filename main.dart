@@ -50,3 +50,11 @@
 //     print('Pajak        :${taxRate * 100}%');
 //     print('Mata Uang    :$currency');
 // }
+
+// Tugas 5
+// void main() {
+//     late String orderStatus;
+//     orderStatus = 'Silahkan tunggu, pesanan sedang di proses';
+
+//     print('Status   :$orderStatus');
+// }

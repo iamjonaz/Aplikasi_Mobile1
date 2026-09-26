@@ -51,3 +51,15 @@ Pada latihan ini saya menggunakan `const` untuk nilai yang sudah diketahui saat 
 ```text
 Pajak: 24.0%
 Mata uang: USD
+```
+
+## Tugas 5 - Late Modifier
+Pada latihan ini saya menggunakan `late` untuk variabel yang nilainya diberikan setelah deklarasi.
+
+```dart
+late String orderStatus;
+
+orderStatus = 'Pesanan sedang diproses';
+
+print('Status: $orderStatus');
+```
