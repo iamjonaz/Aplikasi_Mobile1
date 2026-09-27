@@ -1,5 +1,5 @@
 
-Tugas 1
+// Tugas 1
 // void main() {
 //     String foodName = 'Ayam Bakar Nakz';
 //     int qty = 300;
@@ -12,7 +12,7 @@ Tugas 1
 //     print('Tersedia: $isAvailable');
 // }
 
-Tugas 2
+// Tugas 2
 // void main() {
 //     String foodName = 'Ayam Bakar Nakz';
     
@@ -33,7 +33,7 @@ Tugas 2
 //     print('Catatan          : $noteToPrint');
 // }
 
-Tugas 3
+// Tugas 3
 // void main () {
 //     final String orderId = 'ABN-1234567';
 //     final DateTime orderTime = DateTime.now();
@@ -42,7 +42,7 @@ Tugas 3
 //     print('Waktu Order  :$orderTime');
 // }
 
-Tugas 4
+// Tugas 4
 // void main() {
 //     const double taxRate = 0.24;
 //     const String currency = 'USD';
@@ -51,10 +51,21 @@ Tugas 4
 //     print('Mata Uang    :$currency');
 // }
 
-Tugas 5
+// Tugas 5
 // void main() {
 //     late String orderStatus;
 //     orderStatus = 'Silahkan tunggu, pesanan sedang di proses';
 
 //     print('Status   :$orderStatus');
+// }
+
+// Tugas 6
+// void main() {
+//     String foodName = "Ayam Bakar Nakz";
+//     String customerName = "Gozax";
+//     int tableNumber = 7;
+
+//     print("Nama Makanan :${foodName.toUpperCase()}");
+//     print("Pelanggan    :$customerName");
+//     print("Dimeja Nomor :$tableNumber");        
 // }

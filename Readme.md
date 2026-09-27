@@ -63,3 +63,18 @@ orderStatus = 'Silahkan tunggu, pesanan sedang di proses';
 
 print('Status: $orderStatus');
 ```
+
+## Tugas 6 - Type Data (STRING)
+Pada latihan ini saya menggunakan `String` untuk menyimpan data teks dan String Interpolation untuk menampilkan nilai variabel ke dalam teks.
+
+- `String` untuk nama makanan dan nama pelanggan
+- `toUpperCase()` untuk mengubah teks menjadi huruf kapital
+- String Interpolation untuk menampilkan data ke dalam teks
+
+### Output
+
+```text
+Nama makanan: AYAM BAKAR NAKZ
+Pelanggan: Gozax
+Dimeja nomor: 7
+```
