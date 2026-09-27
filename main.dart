@@ -69,3 +69,14 @@
 //     print("Pelanggan    :$customerName");
 //     print("Dimeja Nomor :$tableNumber");        
 // }
+
+// Tugas 7
+void main() {
+    int qty = 300;
+    int stock = 3000;
+    int customerAge = 25;
+
+    print("Jumlah Pesanan   :$qty");
+    print("Jumlah Stock     :$stock");
+    print("Umur Pelanggan   :$customerAge");
+}

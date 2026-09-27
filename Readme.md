@@ -78,3 +78,20 @@ Nama makanan: AYAM BAKAR NAKZ
 Pelanggan: Gozax
 Dimeja nomor: 7
 ```
+
+## Tugas 7 - Type Data (INTEGER)
+Pada latihan ini saya menggunakan `int` untuk menyimpan bilangan bulat tanpa angka desimal.
+
+- `quantity` untuk jumlah pesanan
+- `stock` untuk stok makanan
+- `customerAge` untuk umur pelanggan
+
+### Output
+
+```text
+Jumlah pesanan: 5
+Stok makanan: 25
+Umur pelanggan: 20
+```
+
+## Tugas 8 - 
