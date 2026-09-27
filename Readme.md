@@ -89,9 +89,9 @@ Pada latihan ini saya menggunakan `int` untuk menyimpan bilangan bulat tanpa ang
 ### Output
 
 ```text
-Jumlah pesanan: 5
-Stok makanan: 25
-Umur pelanggan: 20
+Jumlah Pesanan: 30
+Jumlah Stock: 3000
+Umur Pelanggan: 25
 ```
 
 ## Tugas 8 - 
