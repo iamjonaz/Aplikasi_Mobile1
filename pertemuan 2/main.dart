@@ -4,7 +4,7 @@ String tentukanHargaMieAyam (double harga) {
   } else if (harga >= 10000) {
     return "murah cok beli lah";
   } else {
-    return "murah banget wow";
+    return "murah banget wows";
   }
 }
 
