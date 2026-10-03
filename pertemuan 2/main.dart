@@ -12,5 +12,7 @@ void main() {
   print(tentukanHargaMieAyam(21000));
   print(tentukanHargaMieAyam(5000));
   print(tentukanHargaMieAyam(10000));
-}
+  print(tentukanHargaMieAyam(20000));
+  print(tentukanHargaMieAyam(15000));
 
+}
