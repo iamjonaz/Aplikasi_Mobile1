@@ -11,4 +11,6 @@ String tentukanHargaMieAyam (double harga) {
 void main() {
   print(tentukanHargaMieAyam(21000));
   print(tentukanHargaMieAyam(5000));
+  print(tentukanHargaMieAyam(10000));
 }
+
